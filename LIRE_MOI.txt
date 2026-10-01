@@ -1,0 +1,19 @@
+MES PROJETS V2 — téléphone paysage
+
+1. Ouvrir index.html dans Chrome.
+2. Tourner le téléphone en paysage.
+3. Toucher une carte projet pour l'ouvrir.
+
+Fonctions :
+- date butoir modifiable
+- ajout, modification et suppression d'étapes
+- date intermédiaire par étape
+- ordre des étapes avec ↑ et ↓
+- case terminé et progression automatique
+- suppression complète d'un projet avec confirmation
+- dossier Plus tard conservé comme espace permanent
+- échéances et prochaines actions
+- sauvegarde/restauration JSON
+- fonctionnement hors connexion après installation locale
+
+Les données sont enregistrées localement dans le navigateur de l'appareil.
